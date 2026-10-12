@@ -1,5 +1,8 @@
 # iris observation protocol — v0 DRAFT
 
+> **Archived.** This copy is frozen. The current version lives in
+> [`hale-lang/hale`](https://github.com/hale-lang/hale/tree/main/iris). See the [README](README.md).
+
 The shared-memory contract between an **emitter** (a Hale
 process being observed — native runtime probes eventually,
 the `observe` library emitter and the synthetic emitter

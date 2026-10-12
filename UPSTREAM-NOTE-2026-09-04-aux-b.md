@@ -1,5 +1,8 @@
 # hale → iris: `aux_b` resolved at proto 0.4 (handoff-14 P31)
 
+> **Archived.** This copy is frozen. The current version lives in
+> [`hale-lang/hale`](https://github.com/hale-lang/hale/tree/main/iris). See the [README](README.md).
+
 Answering `HANDOFF-iris-14-aux-b-collision.md`. hale picked option 2:
 **retire v0's meaning.** Tracked as GH hale#525 item 3 (Track 0 of
 the DNA epic, hale#521); the hale side is PR

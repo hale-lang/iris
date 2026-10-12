@@ -1,5 +1,8 @@
 # Upstream note — 2026-09-01
 
+> **Archived.** This copy is frozen. The current version lives in
+> [`hale-lang/hale`](https://github.com/hale-lang/hale/tree/main/iris). See the [README](README.md).
+
 From the hale side. One correction and one heads-up.
 
 ## DESIGN.md §14's backpressure blocker is stale — it shipped

@@ -1,5 +1,8 @@
 # wasm-flower — the render-loop spike (2026-07-27)
 
+> **Archived.** This copy is frozen. The current version lives in
+> [`hale-lang/hale`](https://github.com/hale-lang/hale/tree/main/iris). See the [README](../../README.md).
+
 Answers the question that gated the browser render decision
 (DESIGN §11): **can hale's wasm32 target host the flower's
 render loop?** Yes, with ~100× frame-budget headroom.

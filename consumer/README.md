@@ -1,5 +1,8 @@
 # consumer — attach/decode library + fusion
 
+> **Archived.** This copy is frozen. The current version lives in
+> [`hale-lang/hale`](https://github.com/hale-lang/hale/tree/main/iris). See the [README](../README.md).
+
 The consumer side of the observation protocol. This is iris's
 foundation layer; `fuse` is its first caller.
 

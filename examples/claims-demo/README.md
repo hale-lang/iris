@@ -1,5 +1,8 @@
 # claims-demo — witnessed law on the flower
 
+> **Archived.** This copy is frozen. The current version lives in
+> [`hale-lang/hale`](https://github.com/hale-lang/hale/tree/main/iris). See the [README](../../README.md).
+
 Two seeds that turn every state of iris's **witnessed-law** view
 into a live picture (INSPECTOR.md § *Witnessed law*). The app
 declares four claims that all HOLD statically; the point is what

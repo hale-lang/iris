@@ -1,5 +1,8 @@
 # fuse-hl — the Hale fuse
 
+> **Archived.** This copy is frozen. The current version lives in
+> [`hale-lang/hale`](https://github.com/hale-lang/hale/tree/main/iris). See the [README](../../README.md).
+
 The fusion + serve layer of iris, in Hale. `consumer/fuse.c`
 stays as the C reference implementation (differential
 testing: same segments in, same tables out); this is the one

@@ -1,5 +1,8 @@
 # iris — forward vision (post-observer)
 
+> **Archived.** This copy is frozen. The current version lives in
+> [`hale-lang/hale`](https://github.com/hale-lang/hale/tree/main/iris). See the [README](README.md).
+
 Deliberately out of scope for the observer milestones
 (DESIGN.md §14). Recorded so the commitments survive until
 it's time. Nothing in M1–M3 bends toward this; the only

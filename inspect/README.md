@@ -1,5 +1,8 @@
 # inspect — the model you are editing vs. the fleet that is running
 
+> **Archived.** This copy is frozen. The current version lives in
+> [`hale-lang/hale`](https://github.com/hale-lang/hale/tree/main/iris). See the [README](../README.md).
+
 Slice 1 of [`INSPECTOR.md`](../INSPECTOR.md): the wire-shape drift
 check, plus declared-but-silent. Pure Hale, no FFI — a client of
 fuse-hl's HTTP surface, which is the same surface the MCP

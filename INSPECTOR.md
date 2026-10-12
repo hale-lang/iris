@@ -1,5 +1,8 @@
 # iris — the inspector (ride-along, draft)
 
+> **Archived.** This copy is frozen. The current version lives in
+> [`hale-lang/hale`](https://github.com/hale-lang/hale/tree/main/iris). See the [README](README.md).
+
 A design sketch for the editor-side surface: iris attached to a
 running system *and* to the source tree you are editing, so that
 writing Hale happens next to the system the writing describes.

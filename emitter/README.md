@@ -1,5 +1,8 @@
 # emitter — protocol test fixtures
 
+> **Archived.** This copy is frozen. The current version lives in
+> [`hale-lang/hale`](https://github.com/hale-lang/hale/tree/main/iris). See the [README](../README.md).
+
 Reference implementation of `../PROTOCOL.md`, in C11 on
 purpose: the protocol's fixtures must not depend on the Hale
 toolchain.

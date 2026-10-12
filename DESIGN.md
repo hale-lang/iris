@@ -1,5 +1,8 @@
 # iris — design (observer reframe)
 
+> **Archived.** This copy is frozen. The current version lives in
+> [`hale-lang/hale`](https://github.com/hale-lang/hale/tree/main/iris). See the [README](README.md).
+
 Ground-up redesign, 2026-07-22. Supersedes the modeling-cockpit
 framing (`VISION.md` on `main`). The spike on `main` remains the
 artifact archive; this branch is a clean slate. Pull spike code
